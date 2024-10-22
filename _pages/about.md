@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " "
+title: "Vera Yao 姚煜佳"
 author_profile: true
 redirect_from: 
   - /about/
