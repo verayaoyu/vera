@@ -12,7 +12,7 @@ title                    : "V.Y"
 title_separator          : "-"
 name                     : &name "Vera Yujia Yao"
 description              : &description "personal description"
-url                      : https://verayaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://verayaoyu.github.io/verayaoyu/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "verayaoyu.github.io/verayao"
 
